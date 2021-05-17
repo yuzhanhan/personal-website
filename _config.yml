@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# markdown:         redcarpet
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Zhanhan's Research Zoo
 tagline:          'Zhanhan Yu'
 description:      ''
-url:              http://yuzhanhan.github.io/research-zoo/
+url:              http://yuzhanhan.github.io
 baseurl:          /
 
 author:
