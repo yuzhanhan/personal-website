@@ -2,8 +2,13 @@
 layout: default
 ---
 
-## Welcome to another page
+## Working in Progress
 
-_yay_
+
+Air Quality and Work Safety 
+with Ying Shi
+
+Monopsony in Academia 
+with Alfonso Flores-Lagunes
 
 [back](./)
