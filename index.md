@@ -33,7 +33,7 @@ _with Alfonso Flores-Lagunes_
 
 - Teaching Assistant
   - ECN 521 Economics Statistics, Spring 2021
-  - ECN 452 Labor Economics, Spring 2021
+  - ECN 451 Labor Economics, Spring 2021
 
 
 [CV](https://www.dropbox.com/s/t15baf3r23871ah/CV_ZhanhanYu.pdf?dl=0).
