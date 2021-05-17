@@ -3,4 +3,4 @@
 source 'https://rubygems.org'
 
 gemspec
-jekyll-seo-tag
+
