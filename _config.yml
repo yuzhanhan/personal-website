@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Zhanhan's Research Zoo
+tagline:          'Zhanhan Yu'
+description:      ''
+url:              http://yuzhanhan.github.io
+baseurl:          /
+
+author:
+  name:           'Zhanhan Yu'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           
+
+# exclude
+exclude: 
+- README.md
+- robot.txt
+- sitemap.xml
+- google7fb739e95dec24d1.html
