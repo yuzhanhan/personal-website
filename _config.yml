@@ -6,3 +6,4 @@ google_analytics:
 theme: 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
