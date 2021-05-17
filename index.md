@@ -4,8 +4,6 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-<!-- [Link to another page](./another-page.html). -->
-
 <!-- # Header 1 -->
 
 <!-- ## Header 2
@@ -20,11 +18,13 @@ Zhanhan Yu is a 3rd-year PH.D student in Economics at Syracuse University
 
 ### Working in Progress
 
-Air Quality and Work Safety 
-with Ying Shi
+Air Quality, Productivity, and Work Safety
 
-Monopsony in Academia 
-with Alfonso Flores-Lagunes
+_with Ying Shi_
+
+Monopsony in Academia
+
+_with Alfonso Flores-Lagunes_
 
 ### Teaching
 
@@ -34,6 +34,10 @@ with Alfonso Flores-Lagunes
 - Teaching Assistant
   - ECN 521 Economics Statistics, Spring 2021
   - ECN 452 Labor Economics, Spring 2021
+
+
+[CV](https://www.dropbox.com/s/t15baf3r23871ah/CV_ZhanhanYu.pdf?dl=0).
+
 
 <!-- ```js
 // Javascript code with syntax highlighting.
