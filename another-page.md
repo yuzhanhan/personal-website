@@ -4,7 +4,6 @@ layout: default
 
 ## Working in Progress
 
-
 Air Quality and Work Safety 
 with Ying Shi
 
