@@ -30,16 +30,6 @@ Monopsony in Academia
 
 _with Alfonso Flores-Lagunes_
 
-### Teaching
-
-- Instructor
-  - ECN 422 Intro to Statistics and Econometrics, Summer 2021
-
-- Teaching Assistant
-  - ECN 521 Economics Statistics, Spring 2021
-  - ECN 451 Labor Economics, Spring 2021
-
-
 [CV](https://www.dropbox.com/s/t15baf3r23871ah/CV_ZhanhanYu.pdf?dl=0).
 
 
