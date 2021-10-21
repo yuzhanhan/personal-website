@@ -13,10 +13,14 @@ layout: default
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
 ### About
-Zhanhan Yu is a 3rd-year PH.D student in Economics at Syracuse University
+Zhanhan Yu is a 4th-year PH.D student in Economics at Syracuse University
 
 
 ### Working in Progress
+
+Painkiller Can be the Killer? The Effect of Recreational Marijuana Legalization on Work Safety
+
+The Effect of Dirty Air on Work Safety: Evidence from Bounds and the Imperfect IV
 
 Air Quality, Productivity, and Work Safety
 
