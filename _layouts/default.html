@@ -40,15 +40,12 @@
       </header>
 
       <section>
-        <div class="vertical-menu">
-          <a href="#" class="active">Home</a>
-          <a href="#research">Research</a>
-          <a href="#teach">Teach</a>
 
-        </div>
       {{ content }}
 
       </section>
+
+
       <footer>
         {% if site.github.is_project_page %}
         <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><small></p>
@@ -56,6 +53,14 @@
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
+
+    <div class="vertical-menu">
+      <a href="#" class="active">Home</a>
+      <a href="#research">Research</a>
+      <a href="#teach">Teach</a>
+
+    </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
