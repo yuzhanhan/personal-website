@@ -16,19 +16,6 @@ layout: default
 Zhanhan Yu is a 4th-year PH.D student in Economics at Syracuse University
 
 
-### Working in Progress
-
-Painkiller Can be the Killer? The Effect of Recreational Marijuana Legalization on Work Safety
-
-The Effect of Dirty Air on Work Safety: Evidence from Bounds and the Imperfect IV
-
-Air Quality, Productivity, and Work Safety
-
-_with Ying Shi_
-
-Monopsony in Academia
-
-_with Alfonso Flores-Lagunes_
 
 [CV](https://www.dropbox.com/s/t15baf3r23871ah/CV_ZhanhanYu.pdf?dl=0).
 
