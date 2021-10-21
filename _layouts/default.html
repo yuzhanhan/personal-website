@@ -40,7 +40,13 @@
       </header>
 
       <section>
+        <div class="vertical-menu">
+          <a href="#" class="active">Home</a>
+          <a href="research">Research</a>
+          <a href="teach">Teach</a>
 
+        </div>
+        
       {{ content }}
 
       </section>
@@ -54,13 +60,7 @@
       </footer>
     </div>
 
-    <div class="vertical-menu">
-      <a href="#" class="active">Home</a>
-      <a href="#research">Research</a>
-      <a href="#teach">Teach</a>
 
-    </div>
-    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
