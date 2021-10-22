@@ -14,14 +14,14 @@ layout: contact
 
 ## Contact
 
-*Zhanhan Yu*\\
+*Zhanhan Yu*  
 
-Department of Economics\\
-Center for Policy Research\\
-The Maxwell School of Citizenship and Public Affairs
+Department of Economics  
+Center for Policy Research  
+The Maxwell School of Citizenship and Public Affairs  
 
-Email: zyu127@syr.edu\\
-Address: 426 Eggers Hall, Syracuse, New York 13244
+Email: zyu127@syr.edu  
+Address: 426 Eggers Hall, Syracuse, New York 13244  
 
 
 
