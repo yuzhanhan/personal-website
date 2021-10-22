@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: cv
 ---
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
@@ -12,16 +12,7 @@ layout: contact
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-## Contact
-
-*Zhanhan Yu*  
-Department of Economics  
-Center for Policy Research  
-The Maxwell School of Citizenship and Public Affairs  
-
-Email: zyu127@syr.edu  
-Address: 426 Eggers Hall, Syracuse, New York 13244  
+My Curriculum Vitae can be found in the following link:
+[CV](https://www.dropbox.com/s/t15baf3r23871ah/CV_ZhanhanYu.pdf?dl=0).
 
 
-
-[back](./)
