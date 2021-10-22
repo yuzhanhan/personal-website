@@ -15,6 +15,7 @@ layout: contact
 ## Contact
 
 *Zhanhan Yu*  
+(Pronouns: she/her/hers)  
 Department of Economics  
 Center for Policy Research  
 The Maxwell School of Citizenship and Public Affairs  
