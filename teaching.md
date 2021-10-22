@@ -2,7 +2,7 @@
 layout: teaching
 ---
 
-### Teaching
+## Teaching
 
 - Instructor
   - ECN 422 Intro to Statistics and Econometrics, Summer 2021
