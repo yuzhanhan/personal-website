@@ -2,17 +2,16 @@
 layout: research
 ---
 
-## Working in Progress
+## Work in Progress
 
-Painkiller Can be the Killer? The Effect of Recreational Marijuana Legalization on Work Safety  
+Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety.
 
-The Effect of Dirty Air on Work Safety: Evidence from Bounds and the Imperfect IV  
+The Effect of Particle Pollution on Work Safety: Evidence from Bounds and Imperfect IVs.
 
-Monopsony in Academia and the Gender Pay Gap: Evidence from California   
+Monopsony in Academia and the Gender Pay Gap: Evidence from California.   
 *with Alfonso Flores-Lagunes*
 
-Air Quality and Work Safety  
-*with Ying Shi*
+
 
 
 [back](./)
