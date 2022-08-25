@@ -15,7 +15,8 @@ layout: research
 </details>
 
 3. Heat and Productivity: Evidence From On-Time Performance of Airlines *with Ying Shi*
-Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety.
+
+4. Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety.
 
 
 [back](./)
