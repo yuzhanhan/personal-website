@@ -19,6 +19,7 @@ layout: contact
 Department of Economics  
 Center for Policy Research  
 The Maxwell School of Citizenship and Public Affairs  
+Syracuse University
 
 Email: zyu127@syr.edu  
 Address: 426 Eggers Hall, Syracuse, New York 13244  
