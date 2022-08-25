@@ -14,5 +14,5 @@ layout: default
 
 ## About
 
-Zhanhan Yu (庾湛寒) is a 4th-year Ph.D student in Economics at Syracuse University. She has broad interests in Labor, Urban, and Environmental Economics. Currently she is working on projects related to work safety and the gender pay gap in the higher education.
+Zhanhan Yu ('zan-'han-'u) is a 4th-year Ph.D student in Economics at Syracuse University. She has broad interests in Labor, Urban, and Environmental Economics. Currently she is working on projects related to work safety and the gender pay gap in the higher education.
 
