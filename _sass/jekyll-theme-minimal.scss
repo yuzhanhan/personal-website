@@ -11,10 +11,11 @@ body {
 
 details {
   font: 14px/1.5 Palatino, sans-serif;
-  width: 400px;
+  width: 600px;
 }
 
 details > summary {
+  margin: 0px 0px 8px 0px
   padding: 2px 6px;
   width: 15em;
   background-color: #fff;
