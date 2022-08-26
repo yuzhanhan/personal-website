@@ -4,12 +4,12 @@ layout: research
 ## Research
 
 
-#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries (Job Market Paper)
+#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries (Job Market Paper)  \#Environment \#AirPollution \#WorkSafety
 
 ---------------------------------------------------------------------------------------------
 
 
-#### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with Alfonso Flores-Lagunes)*  
+#### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with Alfonso Flores-Lagunes)*  \#Monopsony \#GenderPayGap \#Academia \#LaborMarket
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, analyze differences in monopsony power by gender, and relate them to the observed gender pay gap.  
 <details>
 	<summary>More</summary>
@@ -18,17 +18,15 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 
 ---------------------------------------------------------------------------------------------
 
-#### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs *(with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
-\#RDD \#Selection
+#### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs *(with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  \#RDD \#Selection
 
 ---------------------------------------------------------------------------------------------
 
-#### Regression Discontinuity with Sample Selection: Application to the Texas Top 10% Policy *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com))*
-\#RDD \#Selection
+#### Regression Discontinuity with Sample Selection: Application to the Texas Top 10% Policy *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com))*  \#RDD \#Selection \#Education
 
 ---------------------------------------------------------------------------------------------
 
-#### Heat and Productivity: Evidence From On-Time Performance of Airlines *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*
+#### Heat and Productivity: Evidence From On-Time Performance of Airlines *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  \#Environment \#Heat \#Productivity
 <details>
 	<summary>More</summary>
 	 
@@ -36,7 +34,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 
 ---------------------------------------------------------------------------------------------
 
-#### Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety
+#### Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety  \#WorkSafety
 
 
 [back](./)
