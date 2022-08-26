@@ -9,7 +9,8 @@ layout: research
 	<summary>More</summary>
 	 
 </details>
-<span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety </span>
+
+<span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span>
 
 ---------------------------------------------------------------------------------------------
 
