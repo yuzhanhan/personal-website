@@ -52,7 +52,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 ---------------------------------------------------------------------------------------------
 
 #### Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety  
-<span style="color: #31574a"> \#WorkSafety </span>
+<span style="color: #31574a"> \#RML \#WorkSafety \#TWFE </span>
 
 
 [back](./)
