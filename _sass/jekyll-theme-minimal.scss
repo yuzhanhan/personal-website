@@ -18,13 +18,15 @@ details {
 }
 
 details > summary {
-  padding: 0px 0px;
   width: 36em;
   background-color: #fff;
   border: none;
   box-shadow: 0px 0px 0px #fff;
   cursor: pointer;
-  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
 }
 
 
