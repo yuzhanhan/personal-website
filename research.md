@@ -3,13 +3,13 @@ layout: research
 ---
 ## Research
 
-### Job Market Paper
-#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries
+
+#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries (Job Market Paper)
 
 ---------------------------------------------------------------------------------------------
 
-### Ongoing Projects
-#### Monopsony in Academia and the Gender Pay Gap: Evidence from California. *(with Alfonso Flores-Lagunes)*  
+
+#### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with Alfonso Flores-Lagunes)*  
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, analyze differences in monopsony power by gender, and relate them to the observed gender pay gap.  
 <details>
 	<summary>More</summary>
@@ -18,11 +18,25 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 
 ---------------------------------------------------------------------------------------------
 
-#### Heat and Productivity: Evidence From On-Time Performance of Airlines *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*
+#### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs *(with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
+\#RDD \#Selection
 
 ---------------------------------------------------------------------------------------------
 
-#### Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety.
+#### Regression Discontinuity with Sample Selection: Application to the Texas Top 10% Policy *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com))*
+\#RDD \#Selection
+
+---------------------------------------------------------------------------------------------
+
+#### Heat and Productivity: Evidence From On-Time Performance of Airlines *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*
+<details>
+	<summary>More</summary>
+	 
+</details>
+
+---------------------------------------------------------------------------------------------
+
+#### Painkiller Can be the Killer? The Short-Term Effect of Recreational Marijuana Legalization on Work Safety
 
 
 [back](./)
