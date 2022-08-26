@@ -4,13 +4,13 @@ layout: research
 ## Research
 
 
-#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries (Job Market Paper)  \#Environment \#AirPollution \#WorkSafety
+#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries (Job Market Paper)  \#Environment \#Labor \#AirPollution \#WorkSafety
 
 ---------------------------------------------------------------------------------------------
 
 
 #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with Alfonso Flores-Lagunes)*  
-<span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>
+<span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>  
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, analyze differences in monopsony power by gender, and relate them to the observed gender pay gap.  
 <details>
 	<summary>More</summary>
@@ -29,7 +29,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 ---------------------------------------------------------------------------------------------
 
 #### Heat and Productivity: Evidence From On-Time Performance of Airlines *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
-***\#Environment \#Heat \#Productivity***
+***\#Environment \#Labor \#Heat \#Productivity***
 <details>
 	<summary>More</summary>
 	 
