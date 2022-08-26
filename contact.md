@@ -26,4 +26,4 @@ Address: 426 Eggers Hall, Syracuse, New York 13244
 
 
 
-[back](./)
+[Back](./)

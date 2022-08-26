@@ -55,4 +55,4 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 <span style="color: #31574a"> \#RML \#WorkSafety \#TWFE </span>
 
 
-[back](./)
+[Back](./)

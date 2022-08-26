@@ -13,4 +13,4 @@ layout: teaching
 
 
 
-[back](./)
+[Back](./)
