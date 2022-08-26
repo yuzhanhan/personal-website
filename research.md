@@ -6,7 +6,7 @@ layout: research
 
 ##### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries
 
-##### Monopsony in Academia and the Gender Pay Gap: Evidence from California. *(with Alfonso Flores-Lagunes)*
+##### Monopsony in Academia and the Gender Pay Gap: Evidence from California. *(with Alfonso Flores-Lagunes)*  
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, analyze differences in monopsony power by gender, and relate them to the observed gender pay gap.
 <details>
 	<summary>More</summary>
