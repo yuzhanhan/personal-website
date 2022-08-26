@@ -11,15 +11,15 @@ body {
 }
 
 details {
-  font: 14px/1 Palatino, sans-serif;
+  font: 14px/1.2 Palatino, sans-serif;
   width: 500px;
   margin-right:480px;
   margin-bottom: 10px;
 }
 
-details > summary {
+details[open] > summary {
   padding: 0px 0px;
-  width: 10em;
+  width: 15em;
   background-color: #fff;
   border: none;
   box-shadow: 0px 0px 0px #fff;
