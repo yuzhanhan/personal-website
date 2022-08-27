@@ -7,3 +7,6 @@ theme:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+include:
+  - "png1"
