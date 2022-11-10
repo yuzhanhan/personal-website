@@ -12,7 +12,7 @@ layout: contact
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-*Zhanhan Yu*  
+*Zhanhan Yu ('zan-han-'u)*  
 (Pronouns: she/her/hers)  
 Department of Economics  
 Center for Policy Research  
