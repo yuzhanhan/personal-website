@@ -12,8 +12,7 @@ layout: cv
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-My Curriculum Vitae can be found in the following link:  
-[CV](https://www.dropbox.com/s/ixva641c1icv48e/CV_ZhanhanYu.pdf?dl=0).
+My Curriculum Vitae can be found [here](https://yuzhanhan.github.io/Job-Market/CV_ZhanhanYu.pdf).
 
 
 [Back](./)
