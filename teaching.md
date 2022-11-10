@@ -3,7 +3,7 @@ layout: teaching
 ---
 
 ### Primary Instructor
-##### Introduction to Statistics and Econometrics
+#### Introduction to Statistics and Econometrics
 *Undergraduate Course, Syracuse University, Summer Session 2021 (Asynchronous Online)*
 
 Course Feedback: 5.67/6
