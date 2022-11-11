@@ -4,7 +4,7 @@ layout: teaching
 
 ## Teaching Experience  
 
-
+---------------------------------------------------------------------------------------------
 
 ### Primary Instructor
 #### Introduction to Statistics and Econometrics
