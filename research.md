@@ -1,7 +1,9 @@
 ---
 layout: research
 ---
-### 
+### Research Experience
+---------------------------------------------------------------------------------------------
+
 #### [Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries](https://yuzhanhan.github.io/Job-Market/Papers/JMP_ZhanhanYu.pdf) (Job Market Paper)  
 I investigate the causal effect of air pollution on workplace safety using novel data on work-related severe injuries and PM2.5 pollution in the United States from 2015 through 2018. I focus on fine particulate matter, known as PM2.5, a primary air pollutant found to adversely impact human cognitive abilities and potentially affect workplace safety via biological channels. Credibly pinning down the causal effect of air pollution is challenging because air pollutants are not randomly assigned across space or workplaces. To deal with the endogeneity of air pollution, I employ a quasi-experimental design, exploiting exogenous variation in PM2.5 driven by two different instruments — rainfall and wind direction. I start by testing the validity of these instruments and show that they violate the assumptions for point identification of interest. Then, I leverage partial identification strategies using the same instruments to estimate bounds on the effect of air pollution. The estimated bounds on the effect of PM2.5 pollution suggest that air pollution increases the workplace accident rate by between 7 and 39% relative to the sample average accident rate. The effect appears to be more prominent for industries that require outdoor work, such as agriculture, mining, and construction, than non-manufacturing indoor industries. A back-of-the-envelope calculation indicates that increasing the annual number of days with PM2.5 pollution by two days is estimated to raise annual total costs of workers’ compensation by at least 0.9 billion dollars and up to 5.1 billion, equivalent to about 1 to 8% of total workers’ compensation paid in 2018.
 
