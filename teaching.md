@@ -2,6 +2,10 @@
 layout: teaching
 ---
 
+### Teaching Experience
+
+---------------------------------------------------------------------------------------------
+
 ### Primary Instructor
 #### Introduction to Statistics and Econometrics
 *Undergraduate Course, Syracuse University, Summer Session 2021 (Asynchronous Online)*
