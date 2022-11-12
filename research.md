@@ -13,7 +13,8 @@ I investigate the causal effect of air pollution on workplace safety using novel
 
 ---------------------------------------------------------------------------------------------
 
-#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Job-Market/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
+<!-- #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Job-Market/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
+#### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))* 
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, analyze differences in monopsony power by gender, and relate them to the observed gender pay gap.   
 <details>
 	<summary>More</summary>
