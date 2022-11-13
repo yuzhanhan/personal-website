@@ -40,7 +40,7 @@ We study the impact of high temperatures on worker productivity in transportatio
 We investigate the effects of tax levies on future construction and demolitions. To estimate the effects, we leverage the voting that has taken place when a local government considers imposing the tax levies in a regression discontinuity design.
 <details>
 	<summary>More</summary>
-	 Importantly we show that the results change dramatically based on whether one takes into account the incidence on zeros — localities where no construction or demolition took place — at the voting threshold. Furthermore, statistically accounting for those zeroes allows to disentangle two distinct effects that tax levies have: on the probability of observing non-zero construction or demolition, and on their conditional amount. Our results indicate that tax levies positively affect the amount of new construction. Estimates that do not account for the presence of zeros in the outcomes often have the opposite sign and are sometimes statistically significant.
+	 Importantly we show that the results change dramatically based on whether one takes into account the incidence on zeros — localities where no construction or demolition took place — at the voting threshold. Furthermore, statistically accounting for these zeroes allows to disentangle two distinct effects that tax levies have: on the probability of observing non-zero construction or demolition, and on their conditional amount. Our results indicate that tax levies positively affect the amount of new construction. Estimates that do not account for the presence of zeros in the outcomes often have the opposite sign and are sometimes statistically significant.
 </details>
 <span style="color: #31574a"> \#RDD \#Selection </span>
 
