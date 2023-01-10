@@ -14,7 +14,7 @@ layout: default
 
 Welcome! I am a Ph.D Candidate in Economics at Syracuse University. My research interests lie primarily at the intersection of labor and environmental economics, focusing on topics related to worker productivity, climate change, and environmental justice. 
 
-I have additional interests in health economics, applied econometrics, and urban economics. See the [Research](./research) page for more information on my ongoing projects.
+I have additional interests in health economics, economics of education, and applied econometrics. See the [Research](./research) page for more information on my ongoing projects.
 
 My [Google site](https://sites.google.com/view/zhanhanyu) for the job market.
 
