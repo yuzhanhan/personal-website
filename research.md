@@ -13,11 +13,13 @@ I investigate the causal effect of air pollution on workplace safety using novel
 
 ---------------------------------------------------------------------------------------------
 
-#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Job-Market/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
+<!-- #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Job-Market/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
+
+#### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, analyze differences in monopsony power by gender, and relate them to the observed gender pay gap.   
 <details>
 	<summary>More</summary>
-	 We collect and use publicly-available information of faculty salaries in the University of California system and merge it with information obtained online on faculty characteristics, career trajectories, and research productivity indicators. We infer the university-level labor supply elasticity by estimating the elasticity of separation. To deal with the endogeneity of the salary in the separation equation, we employ instrumental variables exploiting exogenous variation in salaries driven by changes in school revenues and salary scales. We find evidence of monopsony power: the "exploitation rate", a common measure of monopsony power, is conservatively estimated at about 7% for tenure-track faculty. Full professors experience a higher rate of monopsony power than associate and assistant professors. Lastly, while the estimated monopsony power is not found to differ by gender for assistant and associate professors, it does so for full professors, with women facing a higher exploitation rate relative to males.
+	 
 </details>
 
 <span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>  
@@ -28,7 +30,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 We study the impact of high temperatures on worker productivity in transportation and logistics industries by examining flight on-time performance on hotter days.
 <details>
 	<summary>More</summary>
-	 We create a novel data set linking the on-time performance data of flights departing from 365 airports in the contiguous United States from 2004 through 2019 with daily meteorological data. We find statistically significant evidence that operating on hotter days increases both flight delays and delay time. On days above 95F (35C), flights are 6% more likely to experience late departure, and 17% longer time of delay conditional on late departure. We conjecture that the impact of heat on flight delays may be driven by either labor shortage associated with changes in the intertemporal labor supply of workers with temperature (the extensive margin) or an absolute decline in worker performance on hotter days (the intensive margin). We examine the extensive margin channel using the 2005-2019 American Time-Use Survey (ATUS) and find evidence to support our conjecture that high temperatures affect flight on-time performance in part through the labor supply channel. In industries that typically require workers to perform tasks in outdoor environments, workers work about 30 minutes less on days above 95F (35C). More importantly, we find a significant absenteeism effect of high temperatures. One additional day above 95F in the past week increases absenteeism among outdoor workers by 8% relative to the average absenteeism rate).
+	 
 </details>
 
 <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span>
