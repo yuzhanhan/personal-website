@@ -16,6 +16,6 @@ Welcome! I am a Ph.D Candidate in Economics at Syracuse University. My research 
 
 I have additional interests in education/urban policy and applied econometrics. See the [Research](./research) page for more information on my ongoing projects.
 
-My [Google site](https://sites.google.com/view/zhanhanyu) for the job market.
-
+<!-- My [Google site](https://sites.google.com/view/zhanhanyu) for the job market.
+ -->
 Feel free to contact me at: zyu127[at]syr[dot]edu. You can find my CV [here](https://yuzhanhan.github.io/Job-Market/CV_ZhanhanYu.pdf).
