@@ -12,7 +12,7 @@ layout: cv
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-My latest Curriculum Vitae can be found [here](https://yuzhanhan.github.io/Job-Market/CV_ZhanhanYu.pdf).
+My latest Curriculum Vitae can be found [here](https://yuzhanhan.github.io/Research-Git/CV_ZhanhanYu.pdf).
 
 
 [Back](./)

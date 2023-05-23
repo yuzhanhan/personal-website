@@ -15,6 +15,10 @@ Course Feedback: 5.67/6
 ---------------------------------------------------------------------------------------------
 
 ### Teaching Assistant
+#### Latin American Economic Development
+*Undergraduate Course, Syracuse University, Spring 2023*
+#### Economics of Migration
+*Undergraduate Course, Syracuse University, Spring 2023*
 #### Economic Statistics
 *Undergraduate Course, Syracuse University, Fall 2021*
 #### Labor Economics

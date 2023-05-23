@@ -19,7 +19,7 @@ Center for Policy Research
 The Maxwell School of Citizenship and Public Affairs  
 Syracuse University
 
-Email: zyu127[at]syr[dot]edu  
+Email: yuzhanhan[at]gmail[dot]edu  
 Address: 426 Eggers Hall, Syracuse, New York 13244  
 
 
