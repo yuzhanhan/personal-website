@@ -37,4 +37,4 @@ Course Feedback: 5.67/6
 #### Introduction to Mathematical Statistics
 *Graduate Course, Duke University, Fall 2017*
 
-[Back](./)
+<!-- [Back](./) -->
