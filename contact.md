@@ -15,12 +15,12 @@ layout: contact
 *Zhanhan Yu ('zan-han-'u)*  
 (Pronouns: she/her/hers)  
 Department of Economics  
-Center for Policy Research  
-The Maxwell School of Citizenship and Public Affairs  
-Syracuse University
+Adam Smith Business School
+University of Glasgow
 
-Email: yuzhanhan[at]gmail[dot]edu  
-Address: 426 Eggers Hall, Syracuse, New York 13244  
+
+Email: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk
+Address: Room 239C, Main Building, University Avenue, Glasgow, G12 8QQ
 
 
 
