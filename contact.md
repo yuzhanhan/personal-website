@@ -18,10 +18,9 @@ Department of Economics
 Adam Smith Business School  
 University of Glasgow  
 
+Email: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk   
 
-Email: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk  
-
-Address: Room 239C, Main Building, University Avenue, Glasgow, G12 8QQ
+Address: Room 523, Adam Smith Business School, 2 Discovery Place, Glasgow, G11 6EY
 
 
 
