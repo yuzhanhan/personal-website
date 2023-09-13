@@ -12,15 +12,15 @@ layout: contact
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-*Zhanhan Yu ('zan-han-'u)*  
+Zhanhan Yu *('zan-han-'u)*  
+&nbsp;
 (Pronouns: she/her/hers)  
 Department of Economics  
 Adam Smith Business School  
 University of Glasgow  
-
+&nbsp;
 Email: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk   
-
-Address: Room 523, Adam Smith Business School, 2 Discovery Place, Glasgow, G11 6EY
+Address: Room 523, 2 Discovery Place, Glasgow, G11 6EY
 
 
 
