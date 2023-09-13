@@ -31,7 +31,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 #### [Heat and Productivity: Evidence From Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry.
 <details>
-	<summary>More</summary>
+	<summary><u>More</u></summary>
 	By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
 	 
 </details>
@@ -52,7 +52,7 @@ We investigate the impact of high temperatures on productivity using microdata f
 #### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs *(with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
 We investigate the effects of tax levies on future construction and demolitions. To estimate the effects, we leverage the voting that has taken place when a local government considers imposing the tax levies in a regression discontinuity design.
 <details>
-	<summary>More</summary>
+	<summary><u>More</u></summary>
 	 Importantly we show that the results change dramatically based on whether one takes into account the incidence on zeros — localities where no construction or demolition took place — at the voting threshold. Furthermore, statistically accounting for these zeroes allows to disentangle two distinct effects that tax levies have: on the probability of observing non-zero construction or demolition, and on their conditional amount. Our results indicate that tax levies positively affect the amount of new construction. Estimates that do not account for the presence of zeros in the outcomes often have the opposite sign and are sometimes statistically significant.
 </details>
 <!-- <span style="color: #31574a"> \#RDD \#Selection </span> -->
