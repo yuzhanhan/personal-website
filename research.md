@@ -31,7 +31,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 #### [Heat and Productivity: Evidence From Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry.
 <details>
-	<summary>More</summary>
+	<summary>*More*</summary>
 	By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
 	 
 </details>
