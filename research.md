@@ -38,11 +38,17 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span>
 
-<!-- --------------------------------------------------------------------------------------------- -->
+
+
+---------------------------------------------------------------------------------------------
+
+##
 
 ## Work in Progress
 
----------------------------------------------------------------------------------------------
+
+
+<!-- --------------------------------------------------------------------------------------------- -->
 
 #### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs *(with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
 We investigate the effects of tax levies on future construction and demolitions. To estimate the effects, we leverage the voting that has taken place when a local government considers imposing the tax levies in a regression discontinuity design.
