@@ -41,8 +41,8 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 
 ---------------------------------------------------------------------------------------------
+&nbsp;
 
-## 
 
 ## Work in Progress
 
@@ -65,9 +65,9 @@ We investigate the effects of tax levies on future construction and demolitions.
 
 ---------------------------------------------------------------------------------------------
 
-
-<!-- #### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets *(with Linqi Zhang)*
-<span style="color: #31574a"> \#RML \#WorkSafety \#TWFE </span>
+<!-- 
+#### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets *(with Linqi Zhang)*
+<span style="color: #31574a"> \# \# \# </span>
  -->
 
 <!-- [Back](./) -->
