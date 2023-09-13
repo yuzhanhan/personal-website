@@ -20,7 +20,7 @@ layout: research
 <!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, and analyze differences in monopsony power exposure by gender.
 <details>
-	<summary>More</summary>
+	<summary><u>More</u></summary>
 	 We collected publicly-available information of faculty salaries in the University of California system and merged it with information obtained online on faculty characteristics, career trajectories, and research productivity indicators. We infer the university-level labor supply elasticity by estimating the elasticity of separations. To deal with the endogeneity of the salary in the separation equation, we employ instrumental variables exploiting exogenous variation in salaries driven by changes in school revenues and salary scales. We find evidence of monopsony power: the “exploitation rate,” a common measure of monopsony power, is robustly estimated at about 7% for tenure-track faculty. While there is no statistically significant difference in the estimated monopsony power among different faculty groups, it is found to vary across universities. Moreover, we find weak evidence that male and female faculty experience statistically different levels of monopsony power. Thus, the gender difference in exposure to monopsony power offers limited explanatory power for the observed pay gap.
 </details>
 
