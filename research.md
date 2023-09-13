@@ -38,7 +38,7 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span>
 
----------------------------------------------------------------------------------------------
+<!-- --------------------------------------------------------------------------------------------- -->
 
 ## Work in Progress
 
