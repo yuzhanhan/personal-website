@@ -8,15 +8,12 @@ Office hours by [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5
 
 &nbsp;
 
-&nbsp;
-
 #### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
-*Co-Instructor*
+*Co-Instructor*   
 
-&nbsp;
 
 #### ECON4006P Economics UG Dissertation
-*Supervisor*
+*Supervisor*   
 
 <!-- ## Teaching Experience  
 
