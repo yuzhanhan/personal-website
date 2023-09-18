@@ -2,20 +2,18 @@
 layout: teaching
 ---
 
-## Fall 2023
-&nbsp;
-
-### Co-Instructor
-#### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
-
-&nbsp;
-
-### Supervisor
-#### ECON4006P Economics UG Dissertation
-
----------------------------------------------------------------------------------------------
+## Fall 2023   
 
 Office hours by [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing) 
+
+&nbsp;
+
+### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
+*Co-Instructor*
+&nbsp;
+
+### ECON4006P Economics UG Dissertation
+*Supervisor*
 
 <!-- ## Teaching Experience  
 
