@@ -2,7 +2,22 @@
 layout: teaching
 ---
 
-## Teaching Experience  
+## Fall 2023
+&nbsp;
+
+### Co-Instructor
+#### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
+
+&nbsp;
+
+### Supervisor
+#### ECON4006P Economics UG Dissertation
+
+---------------------------------------------------------------------------------------------
+
+Office hours by [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing) 
+
+<!-- ## Teaching Experience  
 
 ---------------------------------------------------------------------------------------------
 
@@ -13,8 +28,8 @@ layout: teaching
 Course Feedback: 5.67/6
 
 ---------------------------------------------------------------------------------------------
-
-### Teaching Assistant
+ -->
+<!-- ### Teaching Assistant
 #### Latin American Economic Development
 *Undergraduate Course, Syracuse University, Spring 2023*
 #### Economics of Migration
@@ -36,5 +51,5 @@ Course Feedback: 5.67/6
 *Graduate Course, Syracuse University, Summer Session 2018*
 #### Introduction to Mathematical Statistics
 *Graduate Course, Duke University, Fall 2017*
-
+ -->
 <!-- [Back](./) -->
