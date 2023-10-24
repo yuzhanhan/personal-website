@@ -15,9 +15,9 @@ layout: research
 
 ---------------------------------------------------------------------------------------------
 
-<!-- #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
+#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
 
-#### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
+<!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
 We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, and analyze differences in monopsony power exposure by gender.
 <details>
 	<summary><u>More</u></summary>
