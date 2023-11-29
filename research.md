@@ -65,9 +65,12 @@ We investigate the effects of tax levies on future construction and demolitions.
 
 ---------------------------------------------------------------------------------------------
 
-<!-- 
-#### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: an Application to Monopsony in Academic Labor Markets *(with Linqi Zhang)*
-<span style="color: #31574a"> \# \# \# </span>
- -->
+#### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets *(with [Linqi Zhang](https://zhanglinqi.github.io)*  
+
+<!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
+
+---------------------------------------------------------------------------------------------
+
+
 
 <!-- [Back](./) -->
