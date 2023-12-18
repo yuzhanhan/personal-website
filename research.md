@@ -28,7 +28,7 @@ We investigate the existence of monopsony power in a highly-skilled labor market
 
 ---------------------------------------------------------------------------------------------
 
-#### [Heat and Productivity: Evidence From Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
+#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry.
 <details>
 	<summary><u>More</u></summary>
