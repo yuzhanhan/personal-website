@@ -2,9 +2,12 @@
 layout: teaching
 ---
 
-## Fall 2023   
+## Spring 2024 
 
 Office hours by [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing) 
+
+
+## Fall 2023   
 
 &nbsp;
 
