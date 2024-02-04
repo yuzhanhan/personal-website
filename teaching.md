@@ -6,10 +6,10 @@ layout: teaching
 
 Office hours by [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing) 
 
+&nbsp;
 
 ## Fall 2023   
 
-&nbsp;
 
 #### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
 *Co-Instructor*   
