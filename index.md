@@ -19,4 +19,5 @@ Welcome! I am an Adam Smith Career Development Fellow at the Adam Smith Business
 I will be on the 2024-2025 job market. My CV is available [here](https://yuzhanhan.github.io/Research-Git/CV_ZhanhanYu.pdf). 
 
 
+
 For inquiries, please feel free to contact me at: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk.
