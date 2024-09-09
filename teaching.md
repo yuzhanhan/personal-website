@@ -2,9 +2,13 @@
 layout: teaching
 ---
 
-## Spring 2024 
+## Fall 2024 
 
-Office hours by [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing) 
+#### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
+*Co-Instructor*   
+
+Office hours by appointment
+<!-- [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing)  -->
 
 &nbsp;
 
