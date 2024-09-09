@@ -80,7 +80,8 @@ with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaow
 
 ---------------------------------------------------------------------------------------------
 
-#### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs *(with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
+#### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs
+with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)
 
 <details>
 	<summary><u>Abstract</u></summary>
@@ -90,13 +91,15 @@ with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaow
 
 ---------------------------------------------------------------------------------------------
 
-#### Revisiting the Texas Top 10% Policy: Application of Regression Discontinuity with Sample Selection *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com))*  
+#### Revisiting the Texas Top 10% Policy: Application of Regression Discontinuity with Sample Selection
+with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com) 
 
 <!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
 
 ---------------------------------------------------------------------------------------------
 
-#### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets *(with [Linqi Zhang](https://zhanglinqi.github.io))*  
+#### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets 
+with [Linqi Zhang](https://zhanglinqi.github.io)
 
 <!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
 
