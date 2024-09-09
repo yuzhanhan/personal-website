@@ -18,7 +18,9 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 ---------------------------------------------------------------------------------------------
 
 
-#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
+#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
+with [Ying Shi](https://sites.google.com/site/yingandshi/home)
+
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry.
 <!-- <details>
 	<summary><u>More</u></summary> -->
@@ -31,7 +33,8 @@ By linking high-frequency on-time flight performance measures with meteorologica
 
 ---------------------------------------------------------------------------------------------
 
-#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
+#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
+with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)
 
 <!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
 
@@ -44,7 +47,8 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 
 ---------------------------------------------------------------------------------------------
 
-#### [Carbon Footprint of Place-Based Economic Policies] *(with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info))*  
+#### Carbon Footprint of Place-Based Economic Policies 
+with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
 
 We assess the environmental impact of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India. Specifically, we examine the unintended effects of the policy on firms' energy consumption and carbon emissions. Using extensive firm-level data and a spatial RD-DiD design, we find that SEZs result in a significant 30\% reduction in firms' carbon emissions, primarily driven by a shift from conventional energy to lower-carbon renewable alternatives. Heterogeneity analysis reveals that this substantial decline is largely driven by larger firms and those in regions with better access to cleaner energy.
 
