@@ -12,7 +12,7 @@ layout: default
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-Welcome! My research interests lie primarily at the intersection of labor and environmental economics. I have additional interests in education/urban policy and applied econometrics. See the [Research](./research) page for more information on my ongoing projects.
+Welcome! I am an Adam Smith Career Development Fellow at the Adam Smith Business School, University of Glasgow. My research interests lie primarily at the intersection of labor and environmental economics. I have additional interests in education/urban policy and applied econometrics. See the [Research](./research) page for more information on my ongoing projects.
 
 
-I will be on the 2024-2025 job market. Please feel free to contact me at: zhanhan[dot]yu[at]glasgow[dot]ac[dot]uk. You can find my CV [here](https://yuzhanhan.github.io/Research-Git/CV_ZhanhanYu.pdf).
+I will be on the 2024-2025 job market. Please feel free to contact me at: zhanhan[dot]yu[at]glasgow[dot]ac[dot]uk. My CV is available [here](https://yuzhanhan.github.io/Research-Git/CV_ZhanhanYu.pdf).
