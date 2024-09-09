@@ -1,46 +1,68 @@
 ---
 layout: research
 ---
+
+
 ## Working Papers
 
 ---------------------------------------------------------------------------------------------
 
-<!-- #### [Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries](https://yuzhanhan.github.io/Job-Market/Papers/JMP_ZhanhanYu.pdf) (Job Market Paper)   -->
-#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries 
-*(new draft coming soon)*
-<!-- I investigate the causal effect of air pollution on workplace safety using novel data on work-related severe injuries and PM2.5 pollution in the United States from 2015 through 2018. I focus on fine particulate matter, known as PM2.5, a primary air pollutant found to adversely impact human cognitive abilities and potentially affect workplace safety via biological channels. Credibly pinning down the causal effect of air pollution is challenging because air pollutants are not randomly assigned across space or workplaces. To deal with the endogeneity of air pollution, I employ a quasi-experimental design, exploiting exogenous variation in PM2.5 driven by two different instruments — rainfall and wind direction. I start by testing the validity of these instruments and show that they violate the assumptions for point identification of interest. Then, I leverage partial identification strategies using the same instruments to estimate bounds on the effect of air pollution. The estimated bounds on the effect of PM2.5 pollution suggest that air pollution increases the workplace accident rate by between 7 and 39% relative to the sample average accident rate. The effect appears to be more prominent for industries that require outdoor work, such as agriculture, mining, and construction, than non-manufacturing indoor industries. A back-of-the-envelope calculation indicates that increasing the annual number of days with PM2.5 pollution by two days is estimated to raise annual total costs of workers’ compensation by at least 0.9 billion dollars and up to 5.1 billion, equivalent to about 1 to 8% of total workers’ compensation paid in 2018. -->
+#### [Air Pollution and Health at Work](https://yuzhanhan.github.io/Research-Git/Papers/FL_Air_Pollution_Work_Safety.pdf) *(under review)*
+
+Despite pathophysiological evidence linking pollution to human physical and cognitive functioning, little is known about the economic consequences of such impacts. This paper fills this gap by investigating the causal effect of air pollution on worker health and workplace safety. Using a novel dataset combining high-frequency air pollution and meteorological data with workplace injury records from Florida and leveraging exogenous variations in pollution caused by temperature inversions, I find that PM2.5 significantly increases workplace injuries. The effect is nonlinear, increasing with rising pollution levels, and shows a non-negligible impact even at mild pollution levels below the current regulatory standards.
 
 
 <!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
+
+
+---------------------------------------------------------------------------------------------
+
+
+#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
+We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry.
+<!-- <details>
+	<summary><u>More</u></summary> -->
+By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
+	 
+<!-- </details> -->
+
+<!-- <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span> -->
+
 
 ---------------------------------------------------------------------------------------------
 
 #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*  
 
 <!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
-We investigate the existence of monopsony power in a highly-skilled labor market given by tenure-ranked faculty in public research universities in California, and analyze differences in monopsony power exposure by gender.
-<details>
-	<summary><u>More</u></summary>
-	 We collected publicly-available information of faculty salaries in the University of California system and merged it with information obtained online on faculty characteristics, career trajectories, and research productivity indicators. We infer the university-level labor supply elasticity by estimating the elasticity of separations. To deal with the endogeneity of the salary in the separation equation, we employ instrumental variables exploiting exogenous variation in salaries driven by changes in school revenues and salary scales. We find evidence of monopsony power: the “exploitation rate,” a common measure of monopsony power, is robustly estimated at about 7% for tenure-track faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty, but it appears to account for a relatively small percentage of the observed gender pay gap.
-</details>
+
+<!-- <details>
+	<summary><u>More</u></summary> -->
+We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the “exploitation rate,” a common measure of monopsony power, is 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty, but it appears to account for a relatively small percentage of the observed gender pay gap.
+<!-- </details> -->
 
 <!-- <span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>   -->
 
 ---------------------------------------------------------------------------------------------
 
-#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) *(with [Ying Shi](https://sites.google.com/site/yingandshi/home))*  
-We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry.
-<details>
-	<summary><u>More</u></summary>
-	By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
-	 
-</details>
+#### [Carbon Footprint of Place-Based Economic Policies] *(with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info))*  
 
-<!-- <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span> -->
+We assess the environmental impact of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India. Specifically, we examine the unintended effects of the policy on firms' energy consumption and carbon emissions. Using extensive firm-level data and a spatial RD-DiD design, we find that SEZs result in a significant 30\% reduction in firms' carbon emissions, primarily driven by a shift from conventional energy to lower-carbon renewable alternatives. Heterogeneity analysis reveals that this substantial decline is largely driven by larger firms and those in regions with better access to cleaner energy.
 
-
+<!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
 ---------------------------------------------------------------------------------------------
+
+<!-- #### [Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries](https://yuzhanhan.github.io/Job-Market/Papers/JMP_ZhanhanYu.pdf) (Job Market Paper)   -->
+#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries 
+*(under review)*
+
+I study the causal effect of air pollution on workplace safety in the U.S. using novel administrative data on severe workplace injuries. Air pollution, especially PM2.5, has been found to adversely impact human cognitive abilities and thus affect workplace safety via biological channels. Due to the endogeneity of air pollution, credibly pinning down its causal effect generally requires valid instruments. I test the validity of commonly-used IVs and provide statistical evidence that they are invalid for the workplace accident outcome. Leveraging partial identification methods that rely on weaker assumptions, I find evidence that air pollution increases workplace accidents. However, the estimated bounds suggest that the effect can be much smaller compared to what is typically found when adopting invalid IVs.
+
+
+<!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
+
+---------------------------------------------------------------------------------------------
+
 &nbsp;
 
 
