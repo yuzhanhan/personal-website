@@ -7,7 +7,7 @@ layout: research
 
 ---------------------------------------------------------------------------------------------
 
-#### [Air Pollution and Health at Work](https://yuzhanhan.github.io/Research-Git/Papers/FL_Air_Pollution_Work_Safety.pdf) *(under review)*
+#### [Air Pollution and Health at Work](https://yuzhanhan.github.io/Research-Git/Papers/FL_Air_Pollution_Work_Safety.pdf)
 
 <details>
 	<summary><u>Abstract</u></summary>
@@ -53,7 +53,7 @@ with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
 <details>
 	<summary><u>Abstract</u></summary>
-	We assess the environmental impact of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India. Specifically, we examine the unintended effects of the policy on firms' energy consumption and carbon emissions. Using extensive firm-level data and a spatial RD-DiD design, we find that SEZs result in a significant 30\% reduction in firms' carbon emissions, primarily driven by a shift from conventional energy to lower-carbon renewable alternatives. Heterogeneity analysis reveals that this substantial decline is largely driven by larger firms and those in regions with better access to cleaner energy.
+	We assess the environmental impact of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India. Specifically, we examine the unintended effects of the policy on firms' energy consumption and carbon emissions. Using extensive firm-level data and a spatial RD-DiD design, we find that SEZs result in a significant 30% reduction in firms' carbon emissions, primarily driven by a shift from conventional energy to lower-carbon renewable alternatives. Heterogeneity analysis reveals that this substantial decline is largely driven by larger firms and those in regions with better access to cleaner energy.
 </details>
 <!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
@@ -61,7 +61,7 @@ with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaow
 
 <!-- #### [Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries](https://yuzhanhan.github.io/Job-Market/Papers/JMP_ZhanhanYu.pdf) (Job Market Paper)   -->
 #### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries 
-*(under review)*
+
 
 <details>
 	<summary><u>Abstract</u></summary>
