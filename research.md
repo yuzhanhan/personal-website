@@ -75,7 +75,7 @@ with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaow
 &nbsp;
 
 
-## Work in Progress
+## Selected Work in Progress
 
 
 ---------------------------------------------------------------------------------------------
