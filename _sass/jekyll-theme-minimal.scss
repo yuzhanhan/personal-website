@@ -10,6 +10,16 @@ body {
   text-align: justify;
 }
 
+.details-container {
+  display: flex;
+  gap: 10px; // Optional: Add space between the details elements
+}
+
+.details-container details {
+  flex: 1;  // Allows both details to share available space equally
+  margin-right: 10px; // Adds a gap between the details elements
+}
+
 details {
   font: 14px/1.5 Palatino, sans-serif;
   width: 100%;
