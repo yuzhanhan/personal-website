@@ -13,7 +13,11 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 
 <details>
 	<summary><u>Highlights</u></summary>
-		* 
+	  <ul>
+	    <li>The estimated effects of PM2.5 exhibit a non-linear pattern, with the impact increasing with rising pollution levels. A one-unit increase in PM2.5 at 12 $μ𝑔/𝑚^3$ is estimated to increase workplace injuries by 2%, while the effect is significantly greater for PM2.5 at 30 $μ𝑔/𝑚^3$, to be approximately 21%.</li>
+	    <li>I find no evidence of lagged or cumulative impacts, indicating that the estimated effects are primarily driven by acute exposure.</li>
+	    <li>Supplementary analyses show that PM2.5 and ozone are more strongly associated with injuries resulting from cognitive-related issues, such as falls, slips, cuts, and being caught in machinery, rather than with injuries from other causes. </li>
+	  </ul>
 	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper1_f2.png" alt="">
@@ -40,7 +44,9 @@ with [Ying Shi](https://sites.google.com/site/yingandshi/home)
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
 <details>
 	<summary><u>Highlights</u></summary>
-		*
+	  <ul>
+	    <li></li>
+	  </ul>
 	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper2_f1.png" alt="">
