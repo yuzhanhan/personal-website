@@ -30,6 +30,17 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
+.figure-container {
+    display: flex;
+    justify-content: space-between; /* Optional: controls spacing between the figures */
+    gap: 2px; /* Optional: adjusts the gap between the figures */
+}
+
+.figure-container figure {
+  flex: 1; /* Each figure takes equal space */
+  margin: 0;
+}
+
 figure {
   margin: 10px 0;
   text-align: center;
