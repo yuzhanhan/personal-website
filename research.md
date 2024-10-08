@@ -13,7 +13,7 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 
 <details>
 	<summary><u>Highlights</u></summary>
-	- 
+		* 
 	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper1_f2.png" alt="">
@@ -37,9 +37,20 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 #### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
 with [Ying Shi](https://sites.google.com/site/yingandshi/home)
 
+We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
 <details>
-	<summary><u>Abstract</u></summary>
-	We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
+	<summary><u>Highlights</u></summary>
+	*
+	<div class="figure-container">
+	    <figure>
+	      <img src="assets/img/paper2_f2.png" alt="">
+	      <figcaption></figcaption>
+	    </figure>
+	    <figure>
+	      <img src="assets/img/paper2_f1.png" alt="">
+	      <figcaption></figcaption>
+	    </figure>
+  </div>
 	 
 </details>
 
