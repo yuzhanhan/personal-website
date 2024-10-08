@@ -43,11 +43,11 @@ We investigate the impact of high temperatures on productivity using microdata f
 	*
 	<div class="figure-container">
 	    <figure>
-	      <img src="assets/img/paper2_f2.png" alt="">
+	      <img src="assets/img/paper2_f1.png" alt="">
 	      <figcaption></figcaption>
 	    </figure>
 	    <figure>
-	      <img src="assets/img/paper2_f1.png" alt="">
+	      <img src="assets/img/paper2_f2.png" alt="">
 	      <figcaption></figcaption>
 	    </figure>
   </div>
