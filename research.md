@@ -15,15 +15,14 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 	<summary><u>Highlights</u></summary>
 	- 
 	<div class="figure-container">
-    <figure>
-      <img src="assets/img/paper1_f2.png" alt="">
-      <figcaption></figcaption>
-    </figure>
-
-    <figure>
-      <img src="assets/img/paper1_f1.png" alt="">
-      <figcaption></figcaption>
-    </figure>
+	    <figure>
+	      <img src="assets/img/paper1_f2.png" alt="">
+	      <figcaption></figcaption>
+	    </figure>
+	    <figure>
+	      <img src="assets/img/paper1_f1.png" alt="">
+	      <figcaption></figcaption>
+	    </figure>
   </div>
 </details>
 
