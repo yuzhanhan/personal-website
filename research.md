@@ -21,11 +21,11 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper1_f2.png" alt="">
-	      <figcaption></figcaption>
+	      <figcaption>Figure: Marginal Effects of PM2.5</figcaption>
 	    </figure>
 	    <figure>
 	      <img src="assets/img/paper1_f1.png" alt="">
-	      <figcaption></figcaption>
+	      <figcaption>Figure: Marginal Effects of PM2.5 and Ozone, w/ Lags and Leads</figcaption>
 	    </figure>
   </div>
 </details>
@@ -53,11 +53,11 @@ We investigate the impact of high temperatures on productivity using microdata f
 	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper2_f1.png" alt="">
-	      <figcaption></figcaption>
+	      <figcaption>Table: The Effect of Temperature on Flight On-Time Performance</figcaption>
 	    </figure>
 	    <figure>
 	      <img src="assets/img/paper2_f2.png" alt="">
-	      <figcaption></figcaption>
+	      <figcaption>Figure: Heterogeneous Effects by Origin Airport Type</figcaption>
 	    </figure>
   </div>
 	 
@@ -86,7 +86,7 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper3_f1.png" alt="">
-	      <figcaption>Heterogeneous Monopsony Power Across Campuses</figcaption>
+	      <figcaption>Figure: Heterogeneous Monopsony Power Across Campuses</figcaption>
 	    </figure>
   	</div>
 </details>
