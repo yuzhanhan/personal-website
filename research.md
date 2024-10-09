@@ -83,7 +83,7 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 		<li>Male and female faculty members experience a statistically different level of monopsony power: on average, female faculty face a 1.3 pp (percentage point) higher exploitation rate relative to male faculty. This difference is driven by those faculty born in the U.S., among whom females experience a 2 pp higher level of monopsony power.</li>
 		<li>The differential exposure to monopsony power would represent relatively little (8 to 12%) of the observed gender pay gap in the UC system. We conjecture that this is the result of the institutional setting we examine: campuses with salary transparency and public pay scales.</li>
 	</ul>
-	<div class="figure-container">
+	<div class="scaled-figure">
 	    <figure>
 	      <img src="assets/img/paper3_f1.png" alt="">
 	      <figcaption>Figure: Heterogeneous Monopsony Power Across Campuses</figcaption>
