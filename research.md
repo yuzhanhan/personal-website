@@ -45,10 +45,10 @@ We investigate the impact of high temperatures on productivity using microdata f
 <details>
 	<summary><u>Highlights</u></summary>
 	  <ul>
-	    <li>We find that flights operating during days where temperatures are greater than 35 degrees Celsius (◦C) are 30% more likely to be cancelled, 13% more likely to involve a late departure, and experience 21% longer delay time conditional on late departure.</li>
+	    <li>We find that flights operating during days where temperatures are greater than 35 degrees Celsius are 30% more likely to be cancelled, 13% more likely to involve a late departure, and experience 21% longer delay time conditional on late departure.</li>
 	    <li>An additional hour of heat exposure during the day is estimated to increase the departure delay rate and delay time later in the same day by 4% and 3%, respectively.</li>
-	    <li>Our study also shows that heat’s adverse impacts are decreasing in airport size, with nonhub airports more negatively affected than large and medium hub airports.</li>
-	    <li>We provide suggestive evidence on the mechanisms behind these estimates, using data from the American Time Use Survey (ATUS). We show that: a) Heat reduces hours worked (by 1.2-1.4 hours for transportation workers) and increases absenteeism; b) Heat exposure decreases workers’ sleep time and increases the probability of experiencing sleeplessness; c) The mechanism of sleep quality does not meaningfully influence workers’ labor supply. </li>
+	    <li>The heat's impacts are decreasing in airport size, with nonhub airports more negatively affected than large and medium hub airports.</li>
+	    <li>We provide suggestive evidence on the mechanisms behind these estimates: a) Heat reduces hours worked (by 1.2-1.4 hours for transportation workers) and increases absenteeism; b) Heat exposure decreases workers’ sleep time and increases the probability of experiencing sleeplessness; c) The mechanism of sleep quality does not meaningfully influence workers’ labor supply. </li>
 	  </ul>
 	<div class="figure-container">
 	    <figure>
