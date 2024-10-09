@@ -14,7 +14,7 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 <details>
 	<summary><u>Highlights</u></summary>
 	  <ul>
-	    <li>The estimated effects of PM2.5 exhibit a non-linear pattern, with the impact increasing with rising pollution levels. A one-unit increase in PM2.5 at 12 $μ𝑔/𝑚^3$ is estimated to increase workplace injuries by 2%, while the effect is significantly greater for PM2.5 at 30 $μ𝑔/𝑚^3$, to be approximately 21%.</li>
+	    <li>The estimated effects of PM2.5 exhibit a non-linear pattern, with the impact increasing with rising pollution levels. A one-unit increase in PM2.5 at 12 micrograms per cubic meter is estimated to increase workplace injuries by 2%, while the effect is significantly greater for PM2.5 at 30 micrograms per cubic meter, to be approximately 21%.</li>
 	    <li>I find no evidence of lagged or cumulative impacts, indicating that the estimated effects are primarily driven by acute exposure.</li>
 	    <li>Supplementary analyses show that PM2.5 and ozone are more strongly associated with injuries resulting from cognitive-related issues, such as falls, slips, cuts, and being caught in machinery, rather than with injuries from other causes. </li>
 	  </ul>
