@@ -71,11 +71,19 @@ We investigate the impact of high temperatures on productivity using microdata f
 #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)
 
+We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the “exploitation rate,” a common measure of monopsony power, is 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty, but it appears to account for a relatively small percentage of the observed gender pay gap.
+
 <!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
 
 <details>
-	<summary><u>Abstract</u></summary>
-	We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the “exploitation rate,” a common measure of monopsony power, is 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty, but it appears to account for a relatively small percentage of the observed gender pay gap.
+	<summary><u>Highlights</u></summary>
+	<ul>
+		<li>We find evidence that monopsony exists in the UC labor market for tenure-ranked faculty: the exploitation rate is robustly estimated at 7%.</li>
+		<li>While we do not find statistically significant differences in the exposure to monopsony power across faculty groups, such as tenured/non-tenured and U.S./foreign born, we do find heterogeneity in the monopsony power across campuses, which could be related to their location.</li>
+		<li>Male and female faculty members experience a statistically different level of monopsony power: on average, female faculty face a 1.3 pp (percentage point) higher exploitation rate relative to male faculty. This difference is driven by those faculty born in the U.S., among whom females experience a 2 pp higher level of monopsony power.</li>
+		<li>The differential exposure to monopsony power would represent relatively little (8 to 12%) of the observed gender pay gap in the UC system. We conjecture that this is the result of the institutional setting we examine: campuses with salary transparency and public pay scales.</li>
+	</ul>
+	
 </details>
 
 <!-- <span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>   -->
