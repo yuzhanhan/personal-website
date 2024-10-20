@@ -9,7 +9,7 @@ layout: research
 
 #### [Air Pollution and Health at Work](https://yuzhanhan.github.io/Research-Git/Papers/FL_Air_Pollution_Work_Safety.pdf)
 
-Despite pathophysiological evidence linking pollution to human physical and cognitive functioning, relatively little is known about the economic consequences of such impacts. This paper investigates the causal effect of air pollution on worker health and workplace safety. Using a novel dataset combining high-frequency air pollution and meteorological data with workplace injury records from Florida and leveraging exogenous variations in pollution caused by temperature inversions, I find that PM2.5 significantly increases workplace injuries. The effect is nonlinear, increasing with rising pollution levels, and shows a non-negligible impact even at mild pollution levels below the current regulatory standards.
+Despite pathophysiological evidence linking pollution to human physical and cognitive functioning, comparatively less is known about the economic consequences of such impacts. This paper investigates the causal effect of air pollution on worker health and workplace safety. Using a novel dataset combining high-frequency air pollution and meteorological data with workplace injury records from Florida and leveraging exogenous variations in pollution caused by temperature inversions, I find that PM2.5 significantly increases workplace injuries. The effect is nonlinear, increasing with rising pollution levels, and shows a non-negligible impact even at mild pollution levels below the current regulatory standards.
 
 <details>
 	<summary><u>Highlights</u></summary>
