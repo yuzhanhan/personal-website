@@ -10,7 +10,7 @@ layout: research
 with [Ying Shi](https://sites.google.com/site/yingandshi/home) 
 
 Accepted in the *Journal of the Association of Environmental and Resource Economists*
-<https://doi.org/10.1086/733369>
+(<https://doi.org/10.1086/733369>)
 
 
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
@@ -37,6 +37,9 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 <!-- <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span> -->
 
+---------------------------------------------------------------------------------------------
+
+&nbsp;
 
 ## Working Papers
 
