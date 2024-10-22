@@ -2,6 +2,41 @@
 layout: research
 ---
 
+## Publications
+
+---------------------------------------------------------------------------------------------
+
+#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
+with [Ying Shi](https://sites.google.com/site/yingandshi/home) 
+
+Accepted in the *Journal of the Association of Environmental and Resource Economists*
+<https://doi.org/10.1086/733369>
+
+
+We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
+<details>
+	<summary><u>Highlights</u></summary>
+	  <ul>
+	    <li>We find that flights operating during days where temperatures are greater than 35 degrees Celsius are 30% more likely to be cancelled, 13% more likely to involve a late departure, and experience 21% longer delay time conditional on late departure.</li>
+	    <li>An additional hour of heat exposure during the day is estimated to increase the departure delay rate and delay time later in the same day by 4% and 3%, respectively.</li>
+	    <li>The heat's impacts are decreasing in airport size, with nonhub airports more negatively affected than large and medium hub airports.</li>
+	    <li>We provide suggestive evidence on the mechanisms behind these estimates: a) Heat reduces hours worked (by 1.2-1.4 hours for transportation workers) and increases absenteeism; b) Heat exposure decreases workers’ sleep time and increases the probability of experiencing sleeplessness; c) The mechanism of sleep quality does not meaningfully influence workers’ labor supply. </li>
+	  </ul>
+	<div class="figure-container">
+	    <figure>
+	      <img src="assets/img/paper2_f1.png" alt="">
+	      <figcaption>Table: The Effect of Temperature on Flight On-Time Performance</figcaption>
+	    </figure>
+	    <figure>
+	      <img src="assets/img/paper2_f2.png" alt="">
+	      <figcaption>Figure: Heterogeneous Effects by Origin Airport Type</figcaption>
+	    </figure>
+  </div>
+	 
+</details>
+
+<!-- <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span> -->
+
 
 ## Working Papers
 
@@ -33,40 +68,6 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 
 
 <!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
-
-
----------------------------------------------------------------------------------------------
-
-
-#### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
-with [Ying Shi](https://sites.google.com/site/yingandshi/home) 
-Accepted in the *Journal of the Association of Environmental and Resource Economists*
-https://doi.org/10.1086/733369
-
-
-We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
-<details>
-	<summary><u>Highlights</u></summary>
-	  <ul>
-	    <li>We find that flights operating during days where temperatures are greater than 35 degrees Celsius are 30% more likely to be cancelled, 13% more likely to involve a late departure, and experience 21% longer delay time conditional on late departure.</li>
-	    <li>An additional hour of heat exposure during the day is estimated to increase the departure delay rate and delay time later in the same day by 4% and 3%, respectively.</li>
-	    <li>The heat's impacts are decreasing in airport size, with nonhub airports more negatively affected than large and medium hub airports.</li>
-	    <li>We provide suggestive evidence on the mechanisms behind these estimates: a) Heat reduces hours worked (by 1.2-1.4 hours for transportation workers) and increases absenteeism; b) Heat exposure decreases workers’ sleep time and increases the probability of experiencing sleeplessness; c) The mechanism of sleep quality does not meaningfully influence workers’ labor supply. </li>
-	  </ul>
-	<div class="figure-container">
-	    <figure>
-	      <img src="assets/img/paper2_f1.png" alt="">
-	      <figcaption>Table: The Effect of Temperature on Flight On-Time Performance</figcaption>
-	    </figure>
-	    <figure>
-	      <img src="assets/img/paper2_f2.png" alt="">
-	      <figcaption>Figure: Heterogeneous Effects by Origin Airport Type</figcaption>
-	    </figure>
-  </div>
-	 
-</details>
-
-<!-- <span style="color: #31574a"> \#Environment \#Labor \#Heat \#Productivity </span> -->
 
 
 ---------------------------------------------------------------------------------------------
