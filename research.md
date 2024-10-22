@@ -41,7 +41,7 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 &nbsp;
 
-## Working Papers
+## Working Paper
 
 ---------------------------------------------------------------------------------------------
 
