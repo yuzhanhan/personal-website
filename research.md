@@ -39,7 +39,7 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 
 
 #### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
-with [Ying Shi](https://sites.google.com/site/yingandshi/home)
+with [Ying Shi](https://sites.google.com/site/yingandshi/home) 
 Accepted in the *Journal of the Association of Environmental and Resource Economists*
 https://doi.org/10.1086/733369
 
