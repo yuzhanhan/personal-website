@@ -102,6 +102,20 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 
 ---------------------------------------------------------------------------------------------
 
+
+#### [Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets](https://yuzhanhan.github.io/Research-Git/Papers/noside_error_monopsony_LZ_ZY.pdf) 
+with [Linqi Zhang](https://zhanglinqi.github.io)
+
+<!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
+<details>
+	<summary><u>Abstract</u></summary>
+	We extend the linear triangular structural model of Lewbel, Schennach, and Zhang (2024) to account for measurement errors in the endogenous regressor. Using higher-order moments, we identify the causal effect and distributions of unobservables without relying on instrumental variables or repeated measurements. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. Our findings reveal significant monopsony power, with a robust exploitation rate of 36%, and demonstrate that neglecting measurement error would lead to substantial underestimation.
+</details>
+
+
+---------------------------------------------------------------------------------------------
+
+
 #### Carbon Footprint of Place-Based Economic Policies 
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
 <details>
@@ -111,6 +125,7 @@ with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaow
 <!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
 ---------------------------------------------------------------------------------------------
+
 
 <!-- #### [Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries](https://yuzhanhan.github.io/Job-Market/Papers/JMP_ZhanhanYu.pdf) (Job Market Paper)   -->
 #### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries 
@@ -148,15 +163,6 @@ with [David Brasington](https://business.uc.edu/faculty-and-research/departments
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com) 
 
 <!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
-
----------------------------------------------------------------------------------------------
-
-#### Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets 
-with [Linqi Zhang](https://zhanglinqi.github.io)
-
-<!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
-
----------------------------------------------------------------------------------------------
 
 
 
