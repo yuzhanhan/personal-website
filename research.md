@@ -9,8 +9,8 @@ layout: research
 #### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
 with [Ying Shi](https://sites.google.com/site/yingandshi/home) 
 
-Accepted in the Journal of the Association of Environmental and Resource Economists
-(<https://doi.org/10.1086/733369>)
+*Accepted in the Journal of the Association of Environmental and Resource Economists
+(<https://doi.org/10.1086/733369>)*
 
 
 We investigate the impact of high temperatures on productivity using microdata from the U.S. airline industry. By linking high-frequency on-time flight performance measures with meteorological data, we show that higher temperatures significantly reduce airline productivity by increasing cancellation and delay rates and lengthening delay times. Using the American Time-Use Survey (ATUS), our complementary analyses suggest that the impact of higher temperatures operate in part through decreased labor supply (fewer hours worked and greater worker absenteeism) as well as reduced sleep quality and well-being, which may affect on-the-job productivity.
@@ -78,7 +78,7 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
 
-Revision Requested in the Labour Economics  
+*Revision Requested in the Labour Economics*
 
 
 We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the "exploitation rate," a common measure of monopsony power, is about 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty, but it appears to account for a relatively small percentage of the observed gender pay gap. We provide some evidence that the gender difference in monopsony power experienced may be driven by academic fields with more options outside of academia.
