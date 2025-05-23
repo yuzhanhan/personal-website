@@ -18,7 +18,7 @@ Zhanhan Yu *('zan-han-'u)*
 (Pronouns: she/her/hers)  
 Department of Economics  
 Adam Smith Business School  
-University of Glasgow
+The University of Hong Kong
 &nbsp;   
 
 Email: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk   
