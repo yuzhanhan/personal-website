@@ -17,11 +17,11 @@ Zhanhan Yu *(庾湛寒)*
 
 (Pronouns: she/her/hers)  
 Faculty of Social Sciences   
-The University of Hong Kong   
+The University of Hong Kong
 &nbsp;   
 
 Email: zyu77[at]hku[dot]hk   
-Address: Rm 11.15, The Jockey Club Tower
+Address:  Rm 11.15, The Jockey Club Tower, The University of Hong Kong, Pokfulam Road, Hong Kong
 
 
 
