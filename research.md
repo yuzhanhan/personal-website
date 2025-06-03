@@ -120,11 +120,11 @@ with [Linqi Zhang](https://zhanglinqi.github.io)
 ---------------------------------------------------------------------------------------------
 
 
-#### Carbon Footprint of Place-Based Economic Policies 
+#### [Carbon Footprint of Place-Based Economic Policies](https://yuzhanhan.github.io/Research-Git/Papers/SEZ_India.pdf) 
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
 <details>
 	<summary><u>Abstract</u></summary>
-	We assess the environmental impact of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India. Specifically, we examine the unintended effects of the policy on firms' energy consumption and carbon emissions. Using extensive firm-level data and a spatial RD-DiD design, we find that SEZs result in a significant 30% reduction in firms' carbon emissions, primarily driven by a shift from conventional energy to lower-carbon renewable alternatives. Heterogeneity analysis reveals that this substantial decline is largely driven by larger firms and those in regions with better access to cleaner energy.
+	We evaluate the unintended environmental impacts of Special Economic Zones (SEZs)---a place-based policy aimed at promoting economic development in India---on firms’ energy use and carbon emissions. Using detailed firm-level energy data and a spatial regression discontinuity difference-in-differences (RD-DiD) design, we find that firms located within SEZs reduce their carbon emissions by 25% compared to comparable firms outside SEZs. This reduction is primarily driven by a shift from conventional fuels to lower-carbon renewable energy sources, rather than by a decline in output. Guided by a conceptual framework, our heterogeneity analysis shows that emission reductions are more pronounced among larger firms and non-manufacturing firms with greater flexibility in energy substitution, and firms located in regions with better access to clean energy infrastructure.
 </details>
 <!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
