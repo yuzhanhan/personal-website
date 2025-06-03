@@ -21,7 +21,7 @@ The University of Hong Kong
 &nbsp;   
 
 Email: zyu77[at]hku[dot]hk   
-Address: Rm 11.15, The Jockey Club Tower, The Hong Kong University
+Address: Rm 11.15, The Jockey Club Tower
 
 
 
