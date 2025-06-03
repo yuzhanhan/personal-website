@@ -16,8 +16,8 @@ Zhanhan Yu *(庾湛寒)*
 &nbsp;
 
 (Pronouns: she/her/hers)  
-Faculty of Social Sciences
-The University of Hong Kong
+Faculty of Social Sciences   
+The University of Hong Kong   
 &nbsp;   
 
 Email: zyu77[at]hku[dot]hk   
