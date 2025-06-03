@@ -12,17 +12,16 @@ layout: contact
 >
 > When something is important enough, you do it even if the odds are not in your favor. -->
 
-Zhanhan Yu *('zan-han-'u)*
+Zhanhan Yu *(庾湛寒)*
 &nbsp;
 
 (Pronouns: she/her/hers)  
-Department of Economics  
-Adam Smith Business School  
+Faculty of Social Sciences
 The University of Hong Kong
 &nbsp;   
 
-Email: Zhanhan[dot]Yu[at]glasgow[dot]ac[dot]uk   
-Address: Room 523, 2 Discovery Place, Glasgow, G11 6EY
+Email: zyu77[at]hku[dot]hk   
+Address: Rm 11.15, The Jockey Club Tower, The Hong Kong University
 
 
 
