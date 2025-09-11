@@ -9,7 +9,7 @@ layout: research
 #### [Heat and Productivity: Evidence from Flight On-Time Performance](https://yuzhanhan.github.io/Research-Git/Papers/Heat_and_Productivity.pdf) 
 with [Ying Shi](https://sites.google.com/site/yingandshi/home) 
 
-*Journal of the Association of Environmental and Resource Economists 12, no. 5 (2025): 1243-1275.*
+*Accepted in the Journal of the Association of Environmental and Resource Economists*
 
 *(<https://doi.org/10.1086/733369>)*
 
