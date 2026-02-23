@@ -119,7 +119,7 @@ We evaluate the unintended environmental impacts of Special Economic Zones (SEZs
 <!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
 ---------------------------------------------------------------------------------------------
-
+<!-- 
 
 #### [Air Pollution and Health at Work](https://yuzhanhan.github.io/Research-Git/Papers/FL_Air_Pollution_Work_Safety.pdf)
 
@@ -144,12 +144,9 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
   </div>
 </details>
 
-
+ -->
 
 <!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
-
-
----------------------------------------------------------------------------------------------
 
 &nbsp;
 
