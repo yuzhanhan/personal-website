@@ -18,6 +18,9 @@ details {
 }
 
 details > summary {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
   width: 5em;
   background-color: #fff;
   border: none;
