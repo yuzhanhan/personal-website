@@ -46,18 +46,6 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 ---------------------------------------------------------------------------------------------
 
-#### [Air Pollution, Workplace Safety, and Productivity: Evidence Beyond LATE](https://yuzhanhan.github.io/Research-Git/Papers/Air_Pollution_Work_Safety.pdf)  
-
-
-<details>
-	<summary><u>Abstract</u></summary>
-	This paper studies the causal effect of air pollution on workplace safety in the United States using novel nationwide administrative data on severe workplace injuries. Moving beyond the standard method that exploits instrumental variable to address endogenous air pollution and identify the local average treatment effect (LATE) for *compliers*, this study applies partial identification approaches based on weaker assumptions to recover informative bounds on the average treatment effect (ATE). I find that PM2.5 pollution raises the incidence of severe workplace accidents. Counterfactual reductions in high-pollution days yield sizable economic benefits, equivalent to at least 9% of the EPA's annual air-pollution control expenditures. 
-</details>
-
-<!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
-
----------------------------------------------------------------------------------------------
-
 #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
 
@@ -89,25 +77,44 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 ---------------------------------------------------------------------------------------------
 
 
+#### [Air Pollution, Workplace Safety, and Productivity: Evidence Beyond LATE](https://yuzhanhan.github.io/Research-Git/Papers/Air_Pollution_Work_Safety.pdf)  
+
+
+This paper studies the causal effect of air pollution on workplace safety in the United States using novel nationwide administrative data on severe workplace injuries. Moving beyond the standard method that exploits instrumental variable to address endogenous air pollution and identify the local average treatment effect (LATE) for compliers, this study applies partial identification approaches based on weaker assumptions to recover informative bounds on the average treatment effect (ATE). I find that PM2.5 pollution raises the incidence of severe workplace accidents. Counterfactual reductions in high-pollution days yield sizable economic benefits, equivalent to at least 9% of the EPA's annual air-pollution control expenditures. 
+<!-- 
+<details>
+	<summary><u>Abstract</u></summary>
+	
+</details> -->
+
+<!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
+
+---------------------------------------------------------------------------------------------
+
 #### [The Changing Monopsony Power in Higher Education: Evidence without Instruments](https://yuzhanhan.github.io/Research-Git/Papers/noside_error_monopsony_LZ_ZY.pdf) 
 with [Linqi Zhang](https://zhanglinqi.github.io)
 
+This study investigates the dynamics of universities' wage-setting power in a public system located in a "red" state that has undergone major tenure-policy changes. Facing challenges due to the absence of valid instruments and with an endogenous, potentially mismeasured salary variable, we propose a method to estimate monopsony power without instruments while accounting for measurement error in the endogenous regressor. We find substantial wage-setting power, exceeding both the national average and that of a comparable public system in a "blue" state. The estimated monopsony power declined during the policy-change period and rebounded in the COVID period.
+
 <!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
-<details>
+<!-- <details>
 	<summary><u>Abstract</u></summary>
-	This study investigates the dynamics of universities' wage-setting power in a public system located in a "red" state that has undergone major tenure-policy changes. Facing challenges due to the absence of valid instruments and with an endogenous, potentially mismeasured salary variable, we propose a method to estimate monopsony power without instruments while accounting for measurement error in the endogenous regressor. We find substantial wage-setting power, exceeding both the national average and that of a comparable public system in a "blue" state. The estimated monopsony power declined during the policy-change period and rebounded in the COVID period.
+	
 </details>
 
-
+ -->
 ---------------------------------------------------------------------------------------------
 
 
 #### [Carbon Footprint of Place-Based Economic Policies](https://yuzhanhan.github.io/Research-Git/Papers/SEZ_India.pdf) 
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
-<details>
+
+We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure.
+	
+<!-- <details>
 	<summary><u>Abstract</u></summary>
-	We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure.
-</details>
+
+</details> -->
 <!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
 ---------------------------------------------------------------------------------------------
