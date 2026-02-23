@@ -46,6 +46,73 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 ---------------------------------------------------------------------------------------------
 
+#### [Air Pollution, Workplace Safety, and Productivity: Evidence Beyond LATE](https://yuzhanhan.github.io/Research-Git/Papers/Air_Pollution_Work_Safety.pdf)  
+
+
+<details>
+	<summary><u>Abstract</u></summary>
+	This paper studies the causal effect of air pollution on workplace safety in the United States using novel nationwide administrative data on severe workplace injuries. Moving beyond the standard method that exploits instrumental variable to address endogenous air pollution and identify the local average treatment effect (LATE) for *compliers*, this study applies partial identification approaches based on weaker assumptions to recover informative bounds on the average treatment effect (ATE). I find that PM2.5 pollution raises the incidence of severe workplace accidents. Counterfactual reductions in high-pollution days yield sizable economic benefits, equivalent to at least 9% of the EPA's annual air-pollution control expenditures. 
+</details>
+
+<!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
+
+---------------------------------------------------------------------------------------------
+
+#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
+with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
+
+*<u>Revision Requested in the Labour Economics</u>*
+
+
+We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the "exploitation rate," a common measure of monopsony power, is about 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty that appears to account for a relatively small percentage of the observed gender pay gap. We provide evidence that the gender difference in monopsony power experienced may be driven by academic fields with more options outside of academia.   
+
+<!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
+
+<details>
+	<summary><u>Highlights</u></summary>
+	<ul>
+		<li>We find evidence that monopsony exists in the UC labor market for tenure-ranked faculty: the exploitation rate is robustly estimated at 7%.</li>
+		<li>While we do not find statistically significant differences in the exposure to monopsony power across faculty groups, such as tenured/non-tenured and U.S./foreign born, we do find heterogeneity in the monopsony power across campuses, which could be related to their location.</li>
+		<li>Male and female faculty members experience a statistically different level of monopsony power: on average, female faculty face a 1.3 pp (percentage point) higher exploitation rate relative to male faculty. This difference is driven by those faculty born in the U.S., among whom females experience a 2 pp higher level of monopsony power.</li>
+		<li>The differential exposure to monopsony power would represent relatively little (7 to 11%) of the observed gender pay gap in the UC system. We conjecture that this is the result of the institutional setting we examine: campuses with salary transparency and public pay scales.</li>
+	</ul>
+	<div class="scaled-figure">
+	    <figure>
+	      <img src="assets/img/paper3_f1.png" alt="">
+	      <figcaption>Figure: Heterogeneous Monopsony Power Across Campuses</figcaption>
+	    </figure>
+  	</div>
+</details>
+
+<!-- <span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>   -->
+
+---------------------------------------------------------------------------------------------
+
+
+#### [The Changing Monopsony Power in Higher Education: Evidence without Instruments](https://yuzhanhan.github.io/Research-Git/Papers/noside_error_monopsony_LZ_ZY.pdf) 
+with [Linqi Zhang](https://zhanglinqi.github.io)
+
+<!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
+<details>
+	<summary><u>Abstract</u></summary>
+	This study investigates the dynamics of universities' wage-setting power in a public system located in a "red" state that has undergone major tenure-policy changes. Facing challenges due to the absence of valid instruments and with an endogenous, potentially mismeasured salary variable, we propose a method to estimate monopsony power without instruments while accounting for measurement error in the endogenous regressor. We find substantial wage-setting power, exceeding both the national average and that of a comparable public system in a "blue" state. The estimated monopsony power declined during the policy-change period and rebounded in the COVID period.
+</details>
+
+
+---------------------------------------------------------------------------------------------
+
+
+#### [Carbon Footprint of Place-Based Economic Policies](https://yuzhanhan.github.io/Research-Git/Papers/SEZ_India.pdf) 
+with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
+<details>
+	<summary><u>Abstract</u></summary>
+	We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure.
+</details>
+<!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
+
+---------------------------------------------------------------------------------------------
+
+
 #### [Air Pollution and Health at Work](https://yuzhanhan.github.io/Research-Git/Papers/FL_Air_Pollution_Work_Safety.pdf)
 
 Despite pathophysiological evidence linking pollution to human physical and cognitive functioning, comparatively less is known about the economic consequences of such impacts. This paper investigates the causal effect of air pollution on worker health and workplace safety. Using a novel dataset combining high-frequency air pollution and meteorological data with workplace injury records from Florida and leveraging exogenous variations in pollution caused by temperature inversions, I find that PM2.5 significantly increases workplace injuries. The effect is nonlinear, increasing with rising pollution levels, and shows a non-negligible impact even at mild pollution levels below the current regulatory standards.
@@ -73,74 +140,6 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 
 <!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
 
-
----------------------------------------------------------------------------------------------
-
-#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
-with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
-
-*<u>Revision Requested in the Labour Economics</u>*
-
-
-We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the "exploitation rate," a common measure of monopsony power, is about 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty, but it appears to account for a relatively small percentage of the observed gender pay gap. We provide some evidence that the gender difference in monopsony power experienced may be driven by academic fields with more options outside of academia.
-
-<!-- #### Monopsony in Academia and the Gender Pay Gap: Evidence from California *(with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com))*   -->
-
-<details>
-	<summary><u>Highlights</u></summary>
-	<ul>
-		<li>We find evidence that monopsony exists in the UC labor market for tenure-ranked faculty: the exploitation rate is robustly estimated at 7%.</li>
-		<li>While we do not find statistically significant differences in the exposure to monopsony power across faculty groups, such as tenured/non-tenured and U.S./foreign born, we do find heterogeneity in the monopsony power across campuses, which could be related to their location.</li>
-		<li>Male and female faculty members experience a statistically different level of monopsony power: on average, female faculty face a 1.3 pp (percentage point) higher exploitation rate relative to male faculty. This difference is driven by those faculty born in the U.S., among whom females experience a 2 pp higher level of monopsony power.</li>
-		<li>The differential exposure to monopsony power would represent relatively little (8 to 12%) of the observed gender pay gap in the UC system. We conjecture that this is the result of the institutional setting we examine: campuses with salary transparency and public pay scales.</li>
-	</ul>
-	<div class="scaled-figure">
-	    <figure>
-	      <img src="assets/img/paper3_f1.png" alt="">
-	      <figcaption>Figure: Heterogeneous Monopsony Power Across Campuses</figcaption>
-	    </figure>
-  	</div>
-</details>
-
-<!-- <span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>   -->
-
----------------------------------------------------------------------------------------------
-
-
-#### [Identifying Models With Mismeasured Endogenous Regressors Without Instruments: with an Application to Monopsony in Academic Labor Markets](https://yuzhanhan.github.io/Research-Git/Papers/noside_error_monopsony_LZ_ZY.pdf) 
-with [Linqi Zhang](https://zhanglinqi.github.io)
-
-<!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
-<details>
-	<summary><u>Abstract</u></summary>
-	We extend the linear triangular structural model of Lewbel, Schennach, and Zhang (2024) to account for measurement errors in the endogenous regressor. Using higher-order moments, we identify the causal effect and distributions of unobservables without relying on instrumental variables or repeated measurements. We apply this approach to study monopsony power in the labor market for university professors at public research universities within the University System of Georgia, addressing endogeneity and measurement error concerns related to faculty salaries in the absence of suitable instruments. Our findings reveal significant monopsony power, with a robust exploitation rate of 36%, and demonstrate that neglecting measurement error would lead to substantial underestimation.
-</details>
-
-
----------------------------------------------------------------------------------------------
-
-
-#### [Carbon Footprint of Place-Based Economic Policies](https://yuzhanhan.github.io/Research-Git/Papers/SEZ_India.pdf) 
-with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
-<details>
-	<summary><u>Abstract</u></summary>
-	We evaluate the unintended environmental impacts of Special Economic Zones (SEZs)---a place-based policy aimed at promoting economic development in India---on firms’ energy use and carbon emissions. Using detailed firm-level energy data and a spatial regression discontinuity difference-in-differences (RD-DiD) design, we find that firms located within SEZs reduce their carbon emissions by 25% compared to comparable firms outside SEZs. This reduction is primarily driven by a shift from conventional fuels to lower-carbon renewable energy sources, rather than by a decline in output. Guided by a conceptual framework, our heterogeneity analysis shows that emission reductions are more pronounced among larger firms and non-manufacturing firms with greater flexibility in energy substitution, and firms located in regions with better access to clean energy infrastructure.
-</details>
-<!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
-
----------------------------------------------------------------------------------------------
-
-
-<!-- #### [Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries](https://yuzhanhan.github.io/Job-Market/Papers/JMP_ZhanhanYu.pdf) (Job Market Paper)   -->
-#### Does Air Pollution Impair Work Safety? The Impact of PM2.5 on Severe Workplace Injuries 
-
-
-<details>
-	<summary><u>Abstract</u></summary>
-	I study the causal effect of air pollution on workplace safety in the U.S. using novel administrative data on severe workplace injuries. Air pollution, especially PM2.5, has been found to adversely impact human cognitive abilities and thus affect workplace safety via biological channels. Due to the endogeneity of air pollution, credibly pinning down its causal effect generally requires valid instruments. I test the validity of commonly-used IVs and provide statistical evidence that they are invalid for the workplace accident outcome. Leveraging partial identification methods that rely on weaker assumptions, I find evidence that air pollution increases workplace accidents. However, the estimated bounds suggest that the effect can be much smaller compared to what is typically found when adopting invalid IVs.
-</details>
-
-<!-- <span style="color: #31574a"> \#Environment \#Labor \#AirPollution \#WorkSafety \#Bounds </span> -->
 
 ---------------------------------------------------------------------------------------------
 
