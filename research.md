@@ -81,6 +81,7 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 
 
 This paper studies the causal effect of air pollution on workplace safety in the United States using novel nationwide administrative data on severe workplace injuries. Moving beyond the standard method that exploits instrumental variable to address endogenous air pollution and identify the local average treatment effect (LATE) for compliers, this study applies partial identification approaches based on weaker assumptions to recover informative bounds on the average treatment effect (ATE). I find that PM2.5 pollution raises the incidence of severe workplace accidents. Counterfactual reductions in high-pollution days yield sizable economic benefits, equivalent to at least 9% of the EPA's annual air-pollution control expenditures. 
+
 <!-- 
 <details>
 	<summary><u>Abstract</u></summary>
@@ -110,7 +111,7 @@ This study investigates the dynamics of universities' wage-setting power in a pu
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
 
 We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure.
-	
+
 <!-- <details>
 	<summary><u>Abstract</u></summary>
 
