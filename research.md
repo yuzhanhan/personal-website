@@ -49,8 +49,9 @@ We investigate the impact of high temperatures on productivity using microdata f
 #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
 
-*<u>Revision Requested in the Labour Economics</u>*
+*<u>Accepted at the Labour Economics</u>*
 
+*(<https://doi.org/10.1016/j.labeco.2026.102885>)*
 
 We investigate monopsony power in a highly-skilled labor market given by tenure-ranked faculty in the University of California system, and analyze differential monopsony power exposure by gender. We infer the campus-level labor supply elasticity by estimating the elasticity of separations utilizing individual-level faculty data and two instruments based on campus revenues and salary scales. We find that the "exploitation rate," a common measure of monopsony power, is about 7% for tenure-ranked faculty. There is a statistically significant difference in the monopsony power experienced by male and female faculty that appears to account for a relatively small percentage of the observed gender pay gap. We provide evidence that the gender difference in monopsony power experienced may be driven by academic fields with more options outside of academia.   
 
@@ -159,17 +160,17 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 #### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs
 with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)
 
-<details>
+<!-- <details>
 	<summary><u>Abstract</u></summary>
 	We investigate the effects of tax levies on future construction and demolitions. To estimate the effects, we leverage the voting that has taken place when a local government considers imposing the tax levies in a regression discontinuity design. Importantly we show that the results change dramatically based on whether one takes into account the incidence on zeros — localities where no construction or demolition took place — at the voting threshold. Furthermore, statistically accounting for these zeroes allows to disentangle two distinct effects that tax levies have: on the probability of observing non-zero construction or demolition, and on their conditional amount. Our results indicate that tax levies positively affect the amount of new construction. Estimates that do not account for the presence of zeros in the outcomes often have the opposite sign and are sometimes statistically significant.
-</details>
+</details> -->
 <!-- <span style="color: #31574a"> \#RDD \#Selection </span> -->
 
 ---------------------------------------------------------------------------------------------
 
-#### Revisiting the Texas Top 10% Policy: Application of Regression Discontinuity with Sample Selection
+<!-- #### Revisiting the Texas Top 10% Policy: Application of Regression Discontinuity with Sample Selection
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com), [Hugo Jales](https://sites.google.com/site/hugoborgesjales/home), and [Maria Zhu](http://www.mariazhu.com) 
-
+ -->
 <!-- <span style="color: #31574a"> \#RDD \#Selection \#Education </span> -->
 
 
