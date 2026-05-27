@@ -41,7 +41,7 @@ We investigate the impact of high temperatures on productivity using microdata f
 ---------------------------------------------------------------------------------------------
 
 
-#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
+#### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://doi.org/10.1016/j.labeco.2026.102885) 
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
 
 *<u>Labour Economics, Volume 100, June 2026, 102885</u>*
