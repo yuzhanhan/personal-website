@@ -40,16 +40,11 @@ We investigate the impact of high temperatures on productivity using microdata f
 
 ---------------------------------------------------------------------------------------------
 
-&nbsp;
-
-## Working Paper
-
----------------------------------------------------------------------------------------------
 
 #### [Monopsony in Academia and the Gender Pay Gap: Evidence from California](https://yuzhanhan.github.io/Research-Git/Papers/Monopsony_in_Academia.pdf) 
 with [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)  
 
-*<u>Accepted at the Labour Economics</u>*
+*<u>Labour Economics, Volume 100, June 2026, 102885</u>*
 
 *(<https://doi.org/10.1016/j.labeco.2026.102885>)*
 
@@ -74,8 +69,15 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 </details>
 
 <!-- <span style="color: #31574a"> \#Monopsony \#GenderPayGap \#Academia \#LaborMarket </span>   -->
+---------------------------------------------------------------------------------------------
+
+&nbsp;
+
+## Working Paper
 
 ---------------------------------------------------------------------------------------------
+
+
 
 
 #### [Air Pollution, Workplace Safety, and Productivity: Evidence Beyond LATE](https://yuzhanhan.github.io/Research-Git/Papers/Air_Pollution_Work_Safety.pdf)  
