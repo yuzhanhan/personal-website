@@ -90,7 +90,14 @@ We evaluate the unintended environmental impacts of Special Economic Zones (SEZs
 <!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
 ---------------------------------------------------------------------------------------------
+#### [Rerouting Externalities: Flight Diversions and Local Health](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7355939)
+with [Alex Yu](https://sites.google.com/view/alexyu)
 
+
+Transportation networks absorb disruptions by rerouting activity, shifting local externalities toward communities that did not generate the disruption. We study this rerouting mechanism through flight diversions, linking flight diversion records to neighborhood Emergency Medical Services dispatches in New York City. Using disruptions elsewhere in the air network as an instrument for diversion exposure, we find that greater exposure increases EMS demand, especially in neighborhoods closest to airports and late-night diversions. Delayed scheduled arrivals generate markedly different responses, indicating that spatial reallocation, rather than late arrival alone, contributes importantly to the EMS response. The 2016 relaxation of slot controls at Newark Airport was followed by diversion activity shifting toward the region's other major airports, and higher EMS demand in nearby communities. The findings illustrate how disruptions and airport-capacity policies can redistribute aircraft activity and associated health burdens across connected airports and surrounding communities.
+
+
+---------------------------------------------------------------------------------------------
 
 #### [Air Pollution, Workplace Safety, and Productivity: Evidence Beyond LATE](https://yuzhanhan.github.io/Research-Git/Papers/Air_Pollution_Work_Safety.pdf)  
 
