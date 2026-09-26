@@ -2,7 +2,7 @@
 layout: research
 ---
 
-## Publication
+## PUBLICATION
 
 ---------------------------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 
 &nbsp;
 
-## Working Paper
+## WORKING PAPER
 
 ---------------------------------------------------------------------------------------------
 
@@ -160,13 +160,13 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 &nbsp;
 
 
-## Selected Work in Progress
+<!-- ## Selected Work in Progress -->
 
 
 ---------------------------------------------------------------------------------------------
 
-#### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs
-with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com)
+<!-- #### The Effect of Tax Levies on Future Construction and Demolitions: The Importance of Zeros When Leveraging Voting Designs -->
+<!-- with [David Brasington](https://business.uc.edu/faculty-and-research/departments/economics/faculty/david-brasington.html) and [Alfonso Flores-Lagunes](https://aflores-lagunes.weebly.com) -->
 
 <!-- <details>
 	<summary><u>Abstract</u></summary>
