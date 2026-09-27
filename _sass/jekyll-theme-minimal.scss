@@ -38,8 +38,8 @@ details > summary::-webkit-details-marker {
 
 .figure-container {
     display: flex;
-    justify-content: space-between; /* Optional: controls spacing between the figures */
-    gap: 2px; /* Optional: adjusts the gap between the figures */
+    justify-content: column; /* Optional: controls spacing between the figures */
+    gap: 10px; /* Optional: adjusts the gap between the figures */
 }
 
 .figure-container figure {
@@ -60,7 +60,7 @@ figure {
 figure img {
   max-width: 100%; // Ensure the image scales to fit within the details
   height: auto;
-  filter: grayscale(25%) brightness(92%);
+  filter: grayscale(10%) brightness(95%);
 }
 
 figcaption {
@@ -184,6 +184,10 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.header-photo {
+  filter: grayscale(20%) brightness(94%);
 }
 
 ul.downloads {
