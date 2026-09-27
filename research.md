@@ -23,7 +23,7 @@ We investigate the impact of high temperatures on productivity using microdata f
 	    <li>The heat's impacts are decreasing in airport size, with nonhub airports more negatively affected than large and medium hub airports.</li>
 	    <li>We provide suggestive evidence on the mechanisms behind these estimates: a) Heat reduces hours worked (by 1.2-1.4 hours for transportation workers) and increases absenteeism; b) Heat exposure decreases workers’ sleep time and increases the probability of experiencing sleeplessness; c) The mechanism of sleep quality does not meaningfully influence workers’ labor supply. </li>
 	  </ul>
-	<!-- <div class="figure-container">
+	<div class="figure-container">
 	    <figure>
 	      <img src="assets/img/paper2_f1.png" alt="">
 	      <figcaption>Table: The Effect of Temperature on Flight On-Time Performance</figcaption>
@@ -32,7 +32,7 @@ We investigate the impact of high temperatures on productivity using microdata f
 	      <img src="assets/img/paper2_f2.png" alt="">
 	      <figcaption>Figure: Heterogeneous Effects by Origin Airport Type</figcaption>
 	    </figure>
-  </div> -->
+  	</div>
 	 
 </details>
 
