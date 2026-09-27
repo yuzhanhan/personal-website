@@ -17,7 +17,7 @@ layout: teaching
 *co-instructor*   
 
 
-#### ECON4006P Economics UG Dissertation
+##### ECON4006P Economics UG Dissertation
 *supervisor*   
 
 <!-- ## Teaching Experience  

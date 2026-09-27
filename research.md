@@ -2,7 +2,7 @@
 layout: research
 ---
 
-## PUBLICATION
+### PUBLICATION
 
 ---------------------------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 
 &nbsp;
 
-## WORKING PAPER
+### WORKING PAPER
 
 ---------------------------------------------------------------------------------------------
 
@@ -160,7 +160,7 @@ Despite pathophysiological evidence linking pollution to human physical and cogn
 &nbsp;
 
 
-<!-- ## Selected Work in Progress -->
+<!-- ### Selected Work in Progress -->
 
 
 ---------------------------------------------------------------------------------------------
