@@ -2,22 +2,22 @@
 layout: teaching
 ---
 
-#### FALL 2024 
+### FALL 2024 
 
-##### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
+#### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
 *Co-Instructor*   
 <!-- Office hours by appointment -->
 <!-- [appointment](https://docs.google.com/spreadsheets/d/1xcjBp5B8q5EL7fGfaQtTKAsvgT-PmvZvoh9l6F5y0s4/edit?usp=sharing)  -->
 
 &nbsp;
 
-#### FALL 2023   
+### FALL 2023   
 
-##### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
+#### ECON5121 Microeconometrics: Impact Evaluation and Causal Analysis
 *Co-Instructor*   
 
 
-##### ECON4006P Economics UG Dissertation
+#### ECON4006P Economics UG Dissertation
 *Supervisor*   
 
 <!-- ## Teaching Experience  
