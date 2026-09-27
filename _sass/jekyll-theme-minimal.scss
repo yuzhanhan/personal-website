@@ -37,14 +37,13 @@ details > summary::-webkit-details-marker {
 }
 
 .figure-container {
-    display: flex;
-    justify-content: column; /* Optional: controls spacing between the figures */
-    gap: 10px; /* Optional: adjusts the gap between the figures */
+  display: block;
 }
 
 .figure-container figure {
-  flex: 1; /* Each figure takes equal space */
-  margin: 0;
+  display: block;
+  width: 100%;
+  margin: 0 0 15px 0;
 }
 
 figure {
