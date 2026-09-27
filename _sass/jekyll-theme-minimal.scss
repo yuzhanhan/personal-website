@@ -25,7 +25,7 @@ details > summary {
   align-items: center;
   gap: 0.4em;
   width: 5em;
-  background-color: #fff;
+  background-color: #f5f5f3;
   border: none;
   box-shadow: none;
   cursor: pointer;
@@ -112,6 +112,10 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+.topnav {
+  background-color: #d9cfdc;
 }
 
 .wrapper {
