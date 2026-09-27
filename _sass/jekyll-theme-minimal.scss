@@ -60,6 +60,7 @@ figure {
 figure img {
   max-width: 100%; // Ensure the image scales to fit within the details
   height: auto;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18);
 }
 
 figcaption {
