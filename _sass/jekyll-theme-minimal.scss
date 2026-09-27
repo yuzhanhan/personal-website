@@ -57,7 +57,7 @@ figure {
 }
 
 figure img {
-  max-width: 100%; // Ensure the image scales to fit within the details
+  max-width: 80%; // Ensure the image scales to fit within the details
   height: auto;
   filter: grayscale(10%) brightness(95%);
 }
