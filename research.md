@@ -93,7 +93,7 @@ Transportation networks absorb disruptions by rerouting activity, shifting local
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
  -->
 
-#### [Carbon Footprint of Place-Based Economic Policies]
+#### Carbon Footprint of Place-Based Economic Policies
 with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
 
 <!-- We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure. -->
