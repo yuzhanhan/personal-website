@@ -79,25 +79,30 @@ We investigate monopsony power in a highly-skilled labor market given by tenure-
 
 ---------------------------------------------------------------------------------------------
 
-
-#### [Carbon Footprint of Place-Based Economic Policies](https://yuzhanhan.github.io/Research-Git/Papers/SEZ_India.pdf) 
-with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
-
-We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure.
-
-<!-- <details>
-	<summary><u>Abstract</u></summary>
-
-</details> -->
-<!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
-
----------------------------------------------------------------------------------------------
 #### [Rerouting Externalities: Flight Diversions and Local Health](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7355939)
 with [Alex Yu](https://sites.google.com/view/alexyu)
 
 
 Transportation networks absorb disruptions by rerouting activity, shifting local externalities toward communities that did not generate the disruption. We study this rerouting mechanism through flight diversions, linking flight diversion records to neighborhood Emergency Medical Services dispatches in New York City. Using disruptions elsewhere in the air network as an instrument for diversion exposure, we find that greater exposure increases EMS demand, especially in neighborhoods closest to airports and late-night diversions. Delayed scheduled arrivals generate markedly different responses, indicating that spatial reallocation, rather than late arrival alone, contributes importantly to the EMS response. The 2016 relaxation of slot controls at Newark Airport was followed by diversion activity shifting toward the region's other major airports, and higher EMS demand in nearby communities. The findings illustrate how disruptions and airport-capacity policies can redistribute aircraft activity and associated health burdens across connected airports and surrounding communities.
 
+
+---------------------------------------------------------------------------------------------
+
+
+<!-- #### [Carbon Footprint of Place-Based Economic Policies](https://yuzhanhan.github.io/Research-Git/Papers/SEZ_India.pdf) 
+with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
+ -->
+
+#### [Carbon Footprint of Place-Based Economic Policies]
+with [Sayahnika Basu](https://www.sayahnika.com) and [Yao Wang](https://www.yaowang.info) 
+
+<!-- We evaluate the unintended environmental impacts of Special Economic Zones (SEZs), a place-based policy aimed at promoting economic development in India and characterized by non-energy related tax holidays, on firms' energy use and carbon emissions. Using detailed firm level energy data and a Difference-in-Differences design combined with matching, we find that firms located within SEZs reduce their carbon emissions by 22% compared to comparable firms outside SEZs. This reduction is driven primarily by the adoption of newer, cleaner capital rather than by declines in output. We also find suggestive evidence of a shift in energy composition away from conventional fossil fuels toward cleaner energy sources. Emission reductions are larger among bigger firms, non-manufacturing firms with greater energy-substitution flexibility, and firms in regions with better access to clean energy infrastructure. -->
+
+<!-- <details>
+	<summary><u>Abstract</u></summary>
+
+</details> -->
+<!-- <span style="color: #31574a"> \#Environment \#CarbonEmission \#EnergyConsumption \#SustainableDevelopment </span>   -->
 
 ---------------------------------------------------------------------------------------------
 
